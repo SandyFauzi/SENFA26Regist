@@ -1,4 +1,3 @@
-cat > /mnt/user-data/outputs/Code.gs << 'ENDOFFILE'
 // ================================================================
 // SENFA 2026 — Sistem Pendaftaran Seminar & LKTII
 // Google Apps Script — App.gs
